@@ -1,0 +1,6 @@
+1.iqoo
+2.vivo
+3.oppo
+4.realmi
+5.iphone
+6.samsung
